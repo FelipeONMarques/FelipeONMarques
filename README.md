@@ -2,7 +2,6 @@
 
  <div>
    <a href="https://github.com/FelipeONMarques">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeONMarques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeONMarques&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
@@ -10,13 +9,18 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="ReactJs" height="40" width="40" src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" />
   <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="java"height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 
           
 </div>
+<hr>
 
 <br>
+ Olá, meu nome é Felipe, tenho 24 anos sou apaixonado por tecnologia. Gosto muito de Front-end e no momento estou estudando React para me aperfeiçoar.
+<br>
+ 
 
 ### Mais informações sobre mim nas redes abaixo!
 
